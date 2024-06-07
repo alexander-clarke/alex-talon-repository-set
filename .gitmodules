@@ -1,0 +1,18 @@
+[submodule "rango-talon"]
+	path = rango-talon
+	url = https://github.com/david-tejada/rango-talon
+[submodule "alex_talon"]
+	path = alex_talon
+	url = https://github.com/alexander-clarke/alex_talon
+[submodule "cursorless-talon"]
+	path = cursorless-talon
+	url = https://github.com/cursorless-dev/cursorless-talon
+[submodule "flex-mouse-grid"]
+	path = flex-mouse-grid
+	url = https://github.com/brollin/flex-mouse-grid
+[submodule "mouse_guide"]
+	path = mouse_guide
+	url = https://github.com/tararoys/mouse_guide
+[submodule "talon_hud"]
+	path = talon_hud
+	url = https://github.com/chaosparrot/talon_hud
