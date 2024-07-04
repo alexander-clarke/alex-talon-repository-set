@@ -4,6 +4,7 @@
 [submodule "alex_talon"]
 	path = alex_talon
 	url = https://github.com/alexander-clarke/alex_talon
+	ignore = dirty
 [submodule "cursorless-talon"]
 	path = cursorless-talon
 	url = https://github.com/cursorless-dev/cursorless-talon
@@ -22,3 +23,4 @@
 [submodule "talon_community_fork"]
 	path = talon_community_fork
 	url = https://github.com/alexander-clarke/community_talon
+	ignore = dirty
