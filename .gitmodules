@@ -24,3 +24,7 @@
 	path = talon_community_fork
 	url = https://github.com/alexander-clarke/community_talon
 	ignore = dirty
+[submodule "talon-gaze-ocr"]
+	path = talon-gaze-ocr
+	url = https://github.com/wolfmanstout/talon-gaze-ocr
+	branch = beta
