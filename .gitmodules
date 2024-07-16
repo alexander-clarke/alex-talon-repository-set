@@ -28,3 +28,6 @@
 	path = talon-gaze-ocr
 	url = https://github.com/wolfmanstout/talon-gaze-ocr
 	branch = beta
+[submodule "talon-ai-tools"]
+	path = talon-ai-tools
+	url = https://github.com/C-Loftus/talon-ai-tools/
