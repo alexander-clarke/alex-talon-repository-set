@@ -14,6 +14,7 @@
 [submodule "mouse_guide"]
 	path = mouse_guide
 	url = https://github.com/tararoys/mouse_guide
+	ignore = dirty
 [submodule "talon_hud"]
 	path = talon_hud
 	url = https://github.com/chaosparrot/talon_hud
