@@ -18,7 +18,6 @@
 [submodule "talon_hud"]
 	path = talon_hud
 	url = https://github.com/chaosparrot/talon_hud
-  ignore = dirty
 [submodule "talon-filetree-commands"]
 	path = talon-filetree-commands
 	url = https://github.com/paul-schaaf/talon-filetree-commands.git
