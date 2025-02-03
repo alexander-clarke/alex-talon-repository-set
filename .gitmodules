@@ -18,6 +18,7 @@
 [submodule "talon_hud"]
 	path = talon_hud
 	url = https://github.com/chaosparrot/talon_hud
+  ignore = dirty
 [submodule "talon-filetree-commands"]
 	path = talon-filetree-commands
 	url = https://github.com/paul-schaaf/talon-filetree-commands.git
@@ -33,3 +34,6 @@
 [submodule "talon-ai-tools"]
 	path = talon-ai-tools
 	url = https://github.com/C-Loftus/talon-ai-tools/
+[submodule "GoogleSheetsTalonCommands"]
+	path = GoogleSheetsTalonCommands
+	url = git@github.com:alexander-clarke/GoogleSheetsTalonCommands.git
