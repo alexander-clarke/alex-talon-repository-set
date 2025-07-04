@@ -37,3 +37,6 @@
 [submodule "GoogleSheetsTalonCommands"]
 	path = GoogleSheetsTalonCommands
 	url = git@github.com:alexander-clarke/GoogleSheetsTalonCommands.git
+[submodule "speak-the-spire-talon"]
+	path = speak-the-spire-talon
+	url = git@github.com:brollin/speak-the-spire-talon.git
