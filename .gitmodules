@@ -40,3 +40,6 @@
 [submodule "speak-the-spire-talon"]
 	path = speak-the-spire-talon
 	url = git@github.com:brollin/speak-the-spire-talon.git
+[submodule "homophoner-talon"]
+	path = homophoner-talon
+	url = https://github.com/BlueDrink9/homophoner-talon.git
