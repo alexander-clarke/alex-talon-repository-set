@@ -13,7 +13,7 @@
 	url = https://github.com/brollin/flex-mouse-grid
 [submodule "mouse_guide"]
 	path = mouse_guide
-	url = https://github.com/tararoys/mouse_guide
+	url = https://github.com/alexander-clarke/mouse_guide.git
 	ignore = dirty
 [submodule "talon_hud"]
 	path = talon_hud
