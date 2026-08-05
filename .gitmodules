@@ -1,31 +1,39 @@
 [submodule "rango-talon"]
 	path = rango-talon
 	url = https://github.com/david-tejada/rango-talon
+	branch = main
 [submodule "alex_talon"]
 	path = alex_talon
 	url = https://github.com/alexander-clarke/alex_talon
 	ignore = dirty
+	branch = main
 [submodule "cursorless-talon"]
 	path = cursorless-talon
 	url = https://github.com/cursorless-dev/cursorless-talon
+	branch = main
 [submodule "flex-mouse-grid"]
 	path = flex-mouse-grid
 	url = https://github.com/brollin/flex-mouse-grid
+	branch = master
 [submodule "mouse_guide"]
 	path = mouse_guide
 	url = https://github.com/alexander-clarke/mouse_guide.git
 	ignore = dirty
+	branch = main
 [submodule "talon_hud"]
 	path = talon_hud
 	url = https://github.com/chaosparrot/talon_hud
-  ignore = dirty
+	ignore = dirty
+	branch = master
 [submodule "talon-filetree-commands"]
 	path = talon-filetree-commands
 	url = https://github.com/paul-schaaf/talon-filetree-commands.git
+	branch = master
 [submodule "talon_community_fork"]
 	path = talon_community_fork
 	url = https://github.com/alexander-clarke/community_talon
 	ignore = dirty
+	branch = alex-personal
 [submodule "talon-gaze-ocr"]
 	path = talon-gaze-ocr
 	url = https://github.com/wolfmanstout/talon-gaze-ocr
@@ -37,9 +45,12 @@
 [submodule "GoogleSheetsTalonCommands"]
 	path = GoogleSheetsTalonCommands
 	url = git@github.com:alexander-clarke/GoogleSheetsTalonCommands.git
+	branch = main
 [submodule "speak-the-spire-talon"]
 	path = speak-the-spire-talon
 	url = git@github.com:brollin/speak-the-spire-talon.git
+	branch = main
 [submodule "homophoner-talon"]
 	path = homophoner-talon
 	url = https://github.com/BlueDrink9/homophoner-talon.git
+	branch = main
